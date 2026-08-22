@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 271441648,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:25:57Z",
+                "last_commit": "2026-08-21T21:10:49Z",
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:45:51.792Z",
+    "last_updated": "2026-08-22T11:39:52.949Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "original_repository_id": 190150172,
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
