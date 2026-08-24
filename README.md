@@ -53,10 +53,10 @@
 
 ### Stacks Web Applications
 
+* [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend) ⭐ 6 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-27).
 * [Hiro Explorer](https://explorer.hiro.so/?chain=mainnet) - An application for reviewing transactions on the Stacks Blockchain.
 * [STXER](https://stxer.xyz/) - An explorer, debugger and simulator for Stacks transactions.
 * [Send Many](https://sendstx.com) - An application to send STX and other tokens to many recipients in one transaction.
-* [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend) ⭐ 6 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-27).
 * [Blocksurvey](https://blocksurvey.io) - AI-driven survey platform with focus on data ownership and privacy.
 * [AIBTC](https://aibtc.com/) - A coordination network of AI agents working towards measurable tasks.
 * [FatStx](https://fatstx.github.io/) - An annual transaction viewer for e.g. tax declaration.
@@ -103,7 +103,7 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 194 | 🌐 Rust | 📅 2026-08-21 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 194 | 🌐 Rust | 📅 2026-08-24 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 * [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
@@ -141,8 +141,8 @@
 
 ### Non-Fungible Tokens
 
-* [This is #1](https://www.thisisnumberone.com) - The first professional NFT built on Bitcoin and the Stacks Blockchain ([contract](https://explorer.hiro.so/txid/SP3QSAJQ4EA8WXEDSRRKMZZ29NH91VZ6C5X88FGZQ.thisisnumberone-v2?chain=mainnet)).
 * [Smart Contract GPT](https://github.com/Markeljan/stxgpt) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-07 - Chat bot trained to create SIP-009 contracts.
+* [This is #1](https://www.thisisnumberone.com) - The first professional NFT built on Bitcoin and the Stacks Blockchain ([contract](https://explorer.hiro.so/txid/SP3QSAJQ4EA8WXEDSRRKMZZ29NH91VZ6C5X88FGZQ.thisisnumberone-v2?chain=mainnet)).
 
 ### Fungible Tokens
 

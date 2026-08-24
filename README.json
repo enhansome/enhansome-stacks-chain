@@ -7,6 +7,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Speed Spend",
+              "description": "A suite of working Clarity experiments on testnet (source).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258997868,
+                "language": "JavaScript",
+                "last_commit": "2024-10-27T15:10:42Z",
+                "owner": "friedger",
+                "repo": "speed-spend",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Stacks Web Applications"
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Clarinet",
               "description": "Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.",
               "children": [],
@@ -14,7 +42,7 @@
                 "archived": false,
                 "id": 271441648,
                 "language": "Rust",
-                "last_commit": "2026-08-21T21:10:49Z",
+                "last_commit": "2026-08-24T14:14:26Z",
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352
@@ -335,6 +363,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Smart Contract GPT",
+              "description": "Chat bot trained to create SIP-009 contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698023806,
+                "language": "TypeScript",
+                "last_commit": "2026-01-07T16:17:03Z",
+                "owner": "Markeljan",
+                "repo": "stxgpt",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Non-Fungible Tokens"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Stacking Pools",
               "description": "Wrapper contracts of PoX for stacking pools.",
               "children": [],
@@ -475,6 +525,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "@stacks/cli",
+              "description": "Command line interface for interacting with auth, storage, and transactions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22058375,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T16:03:39Z",
+                "owner": "stx-labs",
+                "repo": "stacks.js",
+                "stars": 975
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Self-Hosted Docker",
               "description": "Tool to run a self-hosted Stacks node with Docker.",
               "children": [],
@@ -528,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:46:59.220Z",
+    "last_updated": "2026-08-24T14:41:24.652Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "original_repository_id": 190150172,
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
