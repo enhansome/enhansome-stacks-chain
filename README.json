@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 989947385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T03:26:14Z",
+                "last_commit": "2026-08-23T20:55:03Z",
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
                 "stars": 6
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:39:29.421Z",
+    "last_updated": "2026-08-24T11:46:59.220Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "original_repository_id": 190150172,
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
