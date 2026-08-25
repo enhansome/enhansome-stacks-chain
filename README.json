@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 989947385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:55:03Z",
+                "last_commit": "2026-08-24T20:49:31Z",
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
                 "stars": 6
@@ -435,7 +435,7 @@
                 "archived": false,
                 "id": 22058375,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T16:03:39Z",
+                "last_commit": "2026-08-24T16:31:55Z",
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 975
@@ -532,7 +532,7 @@
                 "archived": false,
                 "id": 22058375,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T16:03:39Z",
+                "last_commit": "2026-08-24T16:31:55Z",
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 975
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:24.652Z",
+    "last_updated": "2026-08-25T06:29:13.784Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "original_repository_id": 190150172,
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
