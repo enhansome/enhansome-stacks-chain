@@ -42,7 +42,7 @@
                 "archived": false,
                 "id": 271441648,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:14:26Z",
+                "last_commit": "2026-08-26T08:46:45Z",
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352
@@ -72,7 +72,7 @@
                 "archived": false,
                 "id": 989947385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:49:31Z",
+                "last_commit": "2026-08-26T01:07:42Z",
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
                 "stars": 6
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:47:57.155Z",
+    "last_updated": "2026-08-26T11:49:26.937Z",
     "original_repository": "friedger/awesome-stacks-chain",
     "original_repository_id": 190150172,
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
