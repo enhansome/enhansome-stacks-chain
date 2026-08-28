@@ -18,7 +18,8 @@
                 "owner": "friedger",
                 "repo": "speed-spend",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -42,11 +43,12 @@
                 "archived": false,
                 "id": 271441648,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:02:23Z",
+                "last_commit": "2026-08-28T19:23:20Z",
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -61,7 +63,8 @@
                 "owner": "mechanismHQ",
                 "repo": "clarigen",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -72,11 +75,12 @@
                 "archived": false,
                 "id": 989947385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:40:32Z",
+                "last_commit": "2026-08-28T19:33:15Z",
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -98,7 +102,8 @@
                 "owner": "clarity-lang",
                 "repo": "book",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -120,7 +125,8 @@
                 "owner": "fess-v",
                 "repo": "stx20-standard",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "friedger",
                 "repo": "clarity-bitcoin",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -150,7 +157,8 @@
                 "owner": "KStasi",
                 "repo": "clarity-uint256-lib",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -172,7 +180,8 @@
                 "owner": "citycoins",
                 "repo": "contracts",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "psq",
                 "repo": "swapr",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -202,7 +212,8 @@
                 "owner": "MarvinJanssen",
                 "repo": "executor-dao",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -217,7 +228,8 @@
                 "owner": "Trust-Machines",
                 "repo": "multisafe",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -232,7 +244,8 @@
                 "owner": "friedger",
                 "repo": "clarity-dao",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "psq",
                 "repo": "flexr",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -262,7 +276,8 @@
                 "owner": "friedger",
                 "repo": "clarity-marketplace",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -277,7 +292,8 @@
                 "owner": "MarvinJanssen",
                 "repo": "stackstarter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "pointblankdev",
                 "repo": "dungeon-master",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -307,7 +324,8 @@
                 "owner": "westridgeblockchain",
                 "repo": "dualX",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -322,7 +340,8 @@
                 "owner": "mijoco-btc",
                 "repo": "clarity-rstack",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "elbaruni",
                 "repo": "clarity-election",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "sobz-dev",
                 "repo": "Cryptonomers",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -374,7 +395,8 @@
                 "owner": "Markeljan",
                 "repo": "stxgpt",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -396,7 +418,8 @@
                 "owner": "friedger",
                 "repo": "clarity-stacking-pools",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -411,7 +434,8 @@
                 "owner": "degen-lab",
                 "repo": "stacks-pools",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -439,7 +463,8 @@
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 975
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -454,7 +479,8 @@
                 "owner": "stx-labs",
                 "repo": "connect",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -469,7 +495,8 @@
                 "owner": "52",
                 "repo": "stacks.rs",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -484,7 +511,8 @@
                 "owner": "rohitverma007",
                 "repo": "stackspy",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -499,7 +527,8 @@
                 "owner": "cbadawi",
                 "repo": "go-stacks",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -514,7 +543,8 @@
                 "owner": "pradel",
                 "repo": "sign-in-with-stacks",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -536,7 +566,8 @@
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 975
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -558,7 +589,8 @@
                 "owner": "stx-labs",
                 "repo": "stacks-blockchain-docker",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -573,7 +605,8 @@
                 "owner": "stacksfoundation",
                 "repo": "render-stacks",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             },
             {
               "node_type": "item",
@@ -588,7 +621,8 @@
                 "owner": "alexlmiller",
                 "repo": "stacks-monitoring",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:27:18.073Z"
             }
           ],
           "description": null,
@@ -600,7 +634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:23.367Z",
+    "last_updated": "2026-08-28T21:27:18.073Z",
     "original_repository_info": {
       "archived": false,
       "id": 190150172,
