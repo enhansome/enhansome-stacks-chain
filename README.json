@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test the Stacks Testnet",
+                "homepage": "https://www.speed-spend.org",
                 "id": 258997868,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-27T15:10:42Z",
+                "open_issues": 5,
                 "owner": "friedger",
                 "repo": "speed-spend",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -41,12 +46,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write, test and deploy high-quality smart contracts to the Stacks blockchain and Bitcoin.",
+                "homepage": "https://stackslabs.com",
                 "id": 271441648,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:23:20Z",
+                "open_issues": 195,
                 "owner": "stx-labs",
                 "repo": "clarinet",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "blockchain",
+                  "clarinet",
+                  "clarity",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -57,12 +72,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clarigen is a developer tool for writing Typescript code that interacts with Clarity smart contracts",
+                "homepage": null,
                 "id": 380376753,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-12-20T15:55:42Z",
+                "open_issues": 6,
                 "owner": "mechanismHQ",
                 "repo": "clarigen",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -73,12 +93,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decoded Stacks data in your own database. Self-hosted.",
+                "homepage": "https://secondlayer.tools",
                 "id": 989947385,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:33:15Z",
+                "open_issues": 1,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blockchain",
+                  "clarity",
+                  "open-source",
+                  "react",
+                  "self-hosted",
+                  "stacks",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -96,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clarity of Mind is both an introductory as well as a reference book for the Clarity smart contract language.",
+                "homepage": "http://book.clarity-lang.org",
                 "id": 400365509,
                 "language": "TypeScript",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-09-15T21:19:48Z",
+                "open_issues": 15,
                 "owner": "clarity-lang",
                 "repo": "book",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -119,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732121411,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-05T07:53:40Z",
+                "open_issues": 8,
                 "owner": "fess-v",
                 "repo": "stx20-standard",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -135,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clarity library for parsing Bitcoin transactions and verifying Merkle proofs",
+                "homepage": null,
                 "id": 400448556,
                 "language": "Clarity",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-23T20:12:53Z",
+                "open_issues": 4,
                 "owner": "friedger",
                 "repo": "clarity-bitcoin",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -151,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for on-chain uint256 operations",
+                "homepage": null,
                 "id": 286029048,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-08-17T18:52:12Z",
+                "open_issues": 2,
                 "owner": "KStasi",
                 "repo": "clarity-uint256-lib",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -174,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CityCoins give communities the power to improve and program their cities.",
+                "homepage": "https://citycoins.co",
                 "id": 363163275,
                 "language": "Clarity",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-29T20:50:03Z",
+                "open_issues": 3,
                 "owner": "citycoins",
                 "repo": "contracts",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -190,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Uniswap like implementation for Stacks 2.0 and Clarity",
+                "homepage": null,
                 "id": 266074474,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T21:00:04Z",
+                "open_issues": 3,
                 "owner": "psq",
                 "repo": "swapr",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -206,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The one DAO to rule them all. A modular DAO written in Clarity for the Stacks blockchain.",
+                "homepage": null,
                 "id": 445347337,
                 "language": "Clarity",
+                "license": "MIT",
                 "last_commit": "2022-07-11T07:39:24Z",
+                "open_issues": 1,
                 "owner": "MarvinJanssen",
                 "repo": "executor-dao",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -222,12 +290,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiSafe is a shared crypto wallet for managing Stacks (STX) and Bitcoin (BTC).",
+                "homepage": null,
                 "id": 468537838,
                 "language": "Clarity",
+                "license": "MIT",
                 "last_commit": "2022-12-23T10:24:46Z",
+                "open_issues": 4,
                 "owner": "Trust-Machines",
                 "repo": "multisafe",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "btc",
+                  "stacks",
+                  "stx"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -238,12 +317,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAO in Clarity",
+                "homepage": "https://stacks-dao-haus.netlify.app",
                 "id": 269570667,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-28T22:17:34Z",
+                "open_issues": 9,
                 "owner": "friedger",
                 "repo": "clarity-dao",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "blockchain",
+                  "blockstack",
+                  "clarity",
+                  "dao"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -254,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interpretation of Ampleforth for Blockstack",
+                "homepage": null,
                 "id": 289864003,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-04-08T03:08:54Z",
+                "open_issues": 0,
                 "owner": "psq",
                 "repo": "flexr",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -270,12 +364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clarity smart contract of a marketplace",
+                "homepage": null,
                 "id": 288178806,
                 "language": "Clarity",
+                "license": "MIT",
                 "last_commit": "2024-10-18T11:28:22Z",
+                "open_issues": 0,
                 "owner": "friedger",
                 "repo": "clarity-marketplace",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -286,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Clarity smart contract for crowdfunding on the STX blockchain.",
+                "homepage": null,
                 "id": 289836598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-24T05:35:27Z",
+                "open_issues": 7,
                 "owner": "MarvinJanssen",
                 "repo": "stackstarter",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -302,12 +406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The one DAO to rule them all. A modular DAO written in Clarity for the Stacks blockchain.",
+                "homepage": null,
                 "id": 611301430,
                 "language": "Clarity",
+                "license": "MIT",
                 "last_commit": "2024-08-08T01:19:22Z",
+                "open_issues": 0,
                 "owner": "pointblankdev",
                 "repo": "dungeon-master",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -318,12 +427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 317942956,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-04-14T15:54:20Z",
+                "open_issues": 0,
                 "owner": "westridgeblockchain",
                 "repo": "dualX",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -334,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 288957970,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-22T14:33:47Z",
+                "open_issues": 0,
                 "owner": "mijoco-btc",
                 "repo": "clarity-rstack",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -350,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 267706187,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-30T20:29:48Z",
+                "open_issues": 7,
                 "owner": "elbaruni",
                 "repo": "clarity-election",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -366,12 +490,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A digital will smart contract written in Clarity Lang. ",
+                "homepage": null,
                 "id": 455220103,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-02-05T20:02:25Z",
+                "open_issues": 0,
                 "owner": "sobz-dev",
                 "repo": "Cryptonomers",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "blockchain",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -389,12 +521,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write Clarity smart contracts using any programing language.",
+                "homepage": "https://stx.fun",
                 "id": 698023806,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-07T16:17:03Z",
+                "open_issues": 0,
                 "owner": "Markeljan",
                 "repo": "stxgpt",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-bitcoin",
+                  "bitcoin-ai",
+                  "clarity",
+                  "stacks",
+                  "stacksjs",
+                  "stx"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -412,12 +556,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contracts for non-custodial stacking pools on the Stacks blockchain",
+                "homepage": null,
                 "id": 344062239,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-04-23T09:21:54Z",
+                "open_issues": 4,
                 "owner": "friedger",
                 "repo": "clarity-stacking-pools",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "blockchain",
+                  "clarity",
+                  "clarity-smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -428,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 653353131,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-07-10T14:49:13Z",
+                "open_issues": 10,
                 "owner": "degen-lab",
                 "repo": "stacks-pools",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -457,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.",
+                "homepage": "https://stacks.js.org",
                 "id": 22058375,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:31:55Z",
+                "open_issues": 92,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
-                "stars": 975
+                "stars": 975,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -473,12 +636,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building excellent user experiences with Stacks.",
+                "homepage": "https://docs.hiro.so/stacks/connect",
                 "id": 226051004,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T21:57:54Z",
+                "open_issues": 50,
                 "owner": "stx-labs",
                 "repo": "connect",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "blockchain",
+                  "blockstack",
+                  "decentralized",
+                  "stacks",
+                  "styled-components",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -489,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust toolkit to interact with the Stacks Blockchain",
+                "homepage": null,
                 "id": 616239982,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-30T18:08:02Z",
+                "open_issues": 1,
                 "owner": "52",
                 "repo": "stacks.rs",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -505,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Library to interact with the Stacks blockchain",
+                "homepage": null,
                 "id": 640821174,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-06T20:00:47Z",
+                "open_issues": 2,
                 "owner": "rohitverma007",
                 "repo": "stackspy",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -521,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 745907471,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-09T10:39:17Z",
+                "open_issues": 1,
                 "owner": "cbadawi",
                 "repo": "go-stacks",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -537,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sign-in with Stacks is a library for creating and verifying Sign-In with Stacks messages.",
+                "homepage": "https://pradel.github.io/sign-in-with-stacks/",
                 "id": 989968506,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-13T23:29:54Z",
+                "open_issues": 0,
                 "owner": "pradel",
                 "repo": "sign-in-with-stacks",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -560,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.",
+                "homepage": "https://stacks.js.org",
                 "id": 22058375,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:31:55Z",
+                "open_issues": 92,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
-                "stars": 975
+                "stars": 975,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -583,12 +783,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stacks-blockchain with API using docker compose",
+                "homepage": null,
                 "id": 305828882,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T06:30:05Z",
+                "open_issues": 17,
                 "owner": "stx-labs",
                 "repo": "stacks-blockchain-docker",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "api",
+                  "bitcoin",
+                  "blockchain",
+                  "decentralized",
+                  "dns",
+                  "docker",
+                  "hiro",
+                  "stacks"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -599,12 +813,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "stacks blockchain on https://render.com",
+                "homepage": null,
                 "id": 441245601,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2023-02-18T00:28:50Z",
+                "open_issues": 0,
                 "owner": "stacksfoundation",
                 "repo": "render-stacks",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "blockchain",
+                  "blockstack",
+                  "decentralized",
+                  "stacks"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             },
@@ -615,12 +839,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Observability stack for Stacks blockchain nodes and signers - dashboards, alerts, and log processing",
+                "homepage": null,
                 "id": 1115310796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-12T17:37:14Z",
+                "open_issues": 0,
                 "owner": "alexlmiller",
                 "repo": "stacks-monitoring",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "alloy",
+                  "blockchain",
+                  "grafana",
+                  "monitoring",
+                  "observability",
+                  "prometheus",
+                  "stacks",
+                  "victoriametrics"
+                ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
             }
@@ -634,15 +872,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:18.073Z",
+    "last_updated": "2026-08-29T04:57:30.159Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
+      "homepage": null,
       "id": 190150172,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-19T06:49:34Z",
+      "open_issues": 4,
       "owner": "friedger",
       "repo": "awesome-stacks-chain",
-      "stars": 124
+      "stars": 124,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "fd4cbc5fa6116652e62b3b29ecf2f266e447e090",
     "enhanced_repository": "enhansome/enhansome-stacks-chain",
