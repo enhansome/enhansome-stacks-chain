@@ -51,8 +51,8 @@
                 "id": 271441648,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T15:08:54Z",
-                "open_issues": 194,
+                "last_commit": "2026-09-03T14:56:39Z",
+                "open_issues": 195,
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352,
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:08:20.542Z",
+    "last_updated": "2026-09-03T15:02:17.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
