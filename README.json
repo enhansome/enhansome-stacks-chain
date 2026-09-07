@@ -98,7 +98,7 @@
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:32:21Z",
+                "last_commit": "2026-09-06T19:14:30Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
@@ -394,7 +394,7 @@
                 "open_issues": 7,
                 "owner": "MarvinJanssen",
                 "repo": "stackstarter",
-                "stars": 14,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:13:33.262Z",
+    "last_updated": "2026-09-07T16:31:24.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
