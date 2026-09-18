@@ -103,9 +103,9 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 197 | 🌐 Rust | 📅 2026-09-17 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 195 | 🌐 Rust | 📅 2026-09-18 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -125,7 +125,7 @@
 
 ### Contracts
 
-* [CityCoin](https://github.com/citycoins/citycoin) ⭐ 69 | 🐛 3 | 🌐 Clarity | 📅 2023-03-29 - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+* [CityCoin](https://github.com/citycoins/citycoin) ⭐ 68 | 🐛 3 | 🌐 Clarity | 📅 2023-03-29 - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 * [SWAPR](https://github.com/psq/swapr) ⭐ 52 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-04 - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 * [ExecutorDAO](https://github.com/MarvinJanssen/executor-dao) ⭐ 52 | 🐛 1 | 🌐 Clarity | 📅 2022-07-11 - A Clarity framework for building DAO functionality into your smart contracts.
 * [MultiSafe](https://github.com/Trust-Machines/multisafe) ⭐ 29 | 🐛 4 | 🌐 Clarity | 📅 2022-12-23 - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
@@ -231,4 +231,4 @@ We welcome community contributions to this list. Please read the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
