@@ -103,9 +103,9 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 198 | 🌐 Rust | 📅 2026-09-25 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 352 | 🐛 197 | 🌐 Rust | 📅 2026-09-25 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -157,17 +157,17 @@
 
 ### Client Libraries
 
-* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-16 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+* [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-25 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
 * [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 89 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-10 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
 * [go-stacks](https://github.com/cbadawi/go-stacks) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2025-02-09 - Golang SDK for interacting with the stacks blockchain.
-* [Sign-In With Stacks](https://github.com/pradel/sign-in-with-stacks/) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - A library for creating and verifying Sign-In with Stacks messages.
+* [Sign-In With Stacks](https://github.com/pradel/sign-in-with-stacks/) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - A library for creating and verifying Sign-In with Stacks messages.
 * [x402 Stacks](https://www.x402stacks.xyz) - A protocol and SDK for building payment-gated APIs on the Stacks Blockchain.
 
 ### CLI
 
-* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 975 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-16 - Command line interface for interacting with auth, storage, and transactions.
+* [@stacks/cli](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) ⭐ 975 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-25 - Command line interface for interacting with auth, storage, and transactions.
 
 ### Indexing and Querying APIs
 
@@ -231,4 +231,4 @@ We welcome community contributions to this list. Please read the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
