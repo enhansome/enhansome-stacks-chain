@@ -52,7 +52,7 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T16:18:49Z",
-                "open_issues": 197,
+                "open_issues": 198,
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 352,
@@ -490,7 +490,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A digital will smart contract written in Clarity Lang. ",
+                "description": "A digital will smart contract written in Clarity Lang. It allows a user to mint a digital will as a NFT. The user can add a licensed entity and beneficiary entity.",
                 "homepage": null,
                 "id": 455220103,
                 "language": "TypeScript",
@@ -670,7 +670,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2025-04-30T18:08:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "52",
                 "repo": "stacks.rs",
                 "stars": 8,
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:24:35.843Z",
+    "last_updated": "2026-10-02T16:40:52.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
