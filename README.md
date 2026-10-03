@@ -158,7 +158,7 @@
 ### Client Libraries
 
 * [Stacks.js](https://github.com/stx-labs/stacks.js) ⭐ 975 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-25 - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
-* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 89 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-10 - A library for connecting apps with Stacks accounts.
+* [Stacks Connect](https://github.com/stx-labs/connect) ⭐ 89 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10 - A library for connecting apps with Stacks accounts.
 * [stacks.rs](https://github.com/52/stacks.rs) ⭐ 8 | 🐛 2 | 🌐 Rust | 📅 2025-04-30 - A Rust toolkit to interact with the Stacks Blockchain.
 * [stacks.py](https://github.com/rohitverma007/stackspy) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2023-10-06 - Python Library to interact with the Stacks Blockchain.
 * [go-stacks](https://github.com/cbadawi/go-stacks) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2025-02-09 - Golang SDK for interacting with the stacks blockchain.
