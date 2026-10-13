@@ -51,7 +51,7 @@
                 "id": 271441648,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T20:05:09Z",
+                "last_commit": "2026-10-13T18:07:25Z",
                 "open_issues": 195,
                 "owner": "stx-labs",
                 "repo": "clarinet",
@@ -93,12 +93,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Decoded Stacks data in your own database. Self-hosted.",
+                "description": "Instant data for apps on Bitcoin.",
                 "homepage": "https://secondlayer.tools",
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T20:12:38Z",
+                "last_commit": "2026-10-13T18:01:42Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
@@ -624,7 +624,7 @@
                 "open_issues": 92,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
-                "stars": 974,
+                "stars": 973,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
@@ -764,7 +764,7 @@
                 "open_issues": 92,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
-                "stars": 974,
+                "stars": 973,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:19:22.527Z",
+    "last_updated": "2026-10-13T18:22:11.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
