@@ -51,8 +51,8 @@
                 "id": 271441648,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T17:02:41Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-29T16:35:36Z",
+                "open_issues": 191,
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 351,
@@ -94,11 +94,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "Instant data for apps on Bitcoin.",
-                "homepage": "https://secondlayer.tools",
+                "homepage": "https://www.secondlayer.tools",
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T17:08:54Z",
+                "last_commit": "2026-10-29T13:36:40Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:11:18.523Z",
+    "last_updated": "2026-10-29T17:27:17.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
