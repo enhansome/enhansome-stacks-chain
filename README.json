@@ -51,8 +51,8 @@
                 "id": 271441648,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T15:44:50Z",
-                "open_issues": 192,
+                "last_commit": "2026-11-01T09:09:15Z",
+                "open_issues": 194,
                 "owner": "stx-labs",
                 "repo": "clarinet",
                 "stars": 351,
@@ -98,19 +98,24 @@
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T13:36:40Z",
+                "last_commit": "2026-10-31T18:41:34Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
                 "stars": 8,
                 "topics": [
+                  "bitcoin",
                   "blockchain",
                   "clarity",
+                  "indexer",
+                  "mcp",
                   "open-source",
-                  "react",
+                  "runes",
                   "self-hosted",
                   "stacks",
-                  "typescript"
+                  "stacks-blockchain",
+                  "typescript",
+                  "webhooks"
                 ]
               },
               "first_seen": "2026-08-28T21:27:18.073Z"
@@ -872,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:09:29.554Z",
+    "last_updated": "2026-11-01T17:09:53.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
