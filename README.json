@@ -98,7 +98,7 @@
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T17:48:25Z",
+                "last_commit": "2026-11-07T16:24:39Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
@@ -626,7 +626,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T15:03:06Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 973,
@@ -766,7 +766,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T15:03:06Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "stx-labs",
                 "repo": "stacks.js",
                 "stars": 973,
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:04:36.286Z",
+    "last_updated": "2026-11-07T16:53:32.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
