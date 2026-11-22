@@ -98,7 +98,7 @@
                 "id": 989947385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T15:59:00Z",
+                "last_commit": "2026-11-21T18:52:23Z",
                 "open_issues": 0,
                 "owner": "ryanwaits",
                 "repo": "secondlayer",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:03:00.934Z",
+    "last_updated": "2026-11-22T18:33:41.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer",
