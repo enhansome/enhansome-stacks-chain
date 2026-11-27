@@ -103,9 +103,9 @@
 
 ### Developer Tools
 
-* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 351 | 🐛 200 | 🌐 Rust | 📅 2026-11-26 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+* [Clarinet](https://github.com/hirosystems/clarinet) ⭐ 351 | 🐛 198 | 🌐 Rust | 📅 2026-11-27 - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 * [Clarigen](https://github.com/obylabs/clarigen) ⭐ 32 | 🐛 6 | 🌐 TypeScript | 📅 2023-12-20 - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+* [secondlayer](https://github.com/ryanwaits/secondlayer) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-27 - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 * [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 * [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 * [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -131,7 +131,7 @@
 * [MultiSafe](https://github.com/Trust-Machines/multisafe) ⭐ 29 | 🐛 4 | 🌐 Clarity | 📅 2022-12-23 - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
 * [ClarityDAO](https://github.com/friedger/clarity-dao) ⭐ 23 | 🐛 9 | 🌐 TypeScript | 📅 2022-04-28 - A conversion of Moloch DAO in Clarity.
 * [FLEXR](https://github.com/psq/flexr) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-08 - An interpretation of Ampleforth for Stacks.
-* [NFT Marketplace](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) ⭐ 17 | 🐛 0 | 🌐 Clarity | 📅 2024-10-18 - Clarity smart contract for a marketplace of tradable assets.
+* [NFT Marketplace](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) ⭐ 16 | 🐛 0 | 🌐 Clarity | 📅 2024-10-18 - Clarity smart contract for a marketplace of tradable assets.
 * [StackStarter](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) ⭐ 13 | 🐛 7 | 🌐 JavaScript | 📅 2020-08-24 - Clarity smart contract for crowdfunding.
 * [Charisma](https://github.com/pointblankdev/dungeon-master) ⭐ 5 | 🐛 0 | 🌐 Clarity | 📅 2024-08-08 - Community-run memecoin DAO on the Stacks Blockchain.
 * [DualX](https://github.com/westridgeblockchain/dualX) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-14 - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
@@ -231,4 +231,4 @@ We welcome community contributions to this list. Please read the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
